@@ -7,7 +7,7 @@
 - The Application should request and take information about `/photos`  from JsonPlaceholder[^1] and place in your local Database (application must work offline).
 - We prefer you to use CoreData, but you are free to use any Database you want like Realm or other.
 - Show the list in the table view, every cell must contain a title and an image.
-- Use pagination to show first 20 items and then add new items when user scrolls down to last cells.
+- Use pagination to request and show first 20 items and then request from server add new 20 items when user scrolls down to last cells.
 - Write a clean, readable code.
 
 ## Optional
