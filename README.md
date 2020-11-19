@@ -12,7 +12,7 @@
 
 ## Optional
 
-- Do not use and third part SDK.
+- Do not use any third part SDK.
 - Comment and document your code, where it is required.
 
 ## Expectations
